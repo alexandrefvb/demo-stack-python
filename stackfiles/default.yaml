@@ -1,0 +1,3 @@
+type: app
+description: Describe your stackfile explaining its purpose
+template: demo-stack-python/hello-stacker-app

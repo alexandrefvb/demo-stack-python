@@ -1,0 +1,7 @@
+type: app
+description: Describe your stackfile explaining its purpose
+template: demo-stack-python/hello-stacker-app
+inputs:
+  greeting_message: Hello
+plugins:
+- plugin: demo-stack-python/ask-stacker-name
