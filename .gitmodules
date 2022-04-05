@@ -1,0 +1,3 @@
+[submodule "teste-plugin2"]
+	path = teste-plugin2
+	url = https://github.com/alexandrefvb/teste-plugin2.git
